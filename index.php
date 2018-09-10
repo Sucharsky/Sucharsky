@@ -1,3 +1,3 @@
 <?php
 
-require( dirname( __FILE__ ) . '/sekcje/header.php' );
+require( dirname( __FILE__ ) . '/front/header.php' );
